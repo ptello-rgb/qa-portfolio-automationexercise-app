@@ -40,7 +40,19 @@ Steps:
 2. Enter valid email and password
 3. Click 'Login'
 
-Expected Result:
+Expected result:
 User is logged in successfully and redirected to the home page
 
+## TC-04 Login with invalid credentials
+
+Preconditions:
+User is on login page
+
+Steps:
+1. Click on 'Signup/Login'
+2. Enter invalid email and/or password
+3. Click 'Login'
+
+Expected Result:
+Error message is displayed and user is not logged in
 
